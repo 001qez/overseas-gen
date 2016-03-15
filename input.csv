@@ -1,0 +1,5 @@
+file_code,type,DisplayDays,AreaNameKey,main_title,valid,issue,sw lat,sw lon,ne lat,ne lon
+6M,OverseasSail,1,RequestB,Navy Overseas Sail Forecast,06 Mar 2016 0800h - 06 Mar 2016 2000h,"XXX/XX, 06 Mar 2016 0730h",07 00 S,106 00 E,03 00 S,107 00 E
+7M,OverseasSail,1,RequestB,Navy Overseas Sail Forecast,07 Mar 2016 0800h - 07 Mar 2016 2000h,"XXX/XX, 07 Mar 2016 0730h",03 00 S,106 00 E,01 00 N,107 00 E
+8M,OverseasSailWindTemp,1,RequestB,Navy Overseas Sail Forecast,08 Mar 2016 0800h - 08 Mar 2016 2000h,"XXX/XX, 08 Mar 2016 0730h",01 00 N,104 00 E,01 30 N,107 00 E
+8N,OverseasSailWindTemp,1,RequestB,Navy Overseas Sail Forecast,08 Mar 2016 2000h - 09 Mar 2016 0800h,"XXX/XX, 08 Mar 2016 1930h",01 00 N,104 00 E,01 30 N,107 00 E
